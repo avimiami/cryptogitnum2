@@ -1,0 +1,24 @@
+{
+  "crypto_pill_data": [
+    {
+      "id": "Global",
+      "text_out": "Global crypto markets are down about 5% in the past 24hours, thats a 1sd move. Recent correlation with GOld is very high. Luna is moving up the ranks and Solana is in the dumps",
+      "card_ids": ["binancecoin", "ripple", "tether", "cardano"]
+    },
+    {
+      "id": "NFT",
+      "text_out": "NFT markets are underperforming overall crypto. Projects that are doing well are XX and YY. The best risk adjusted project return is XX over the past month.",
+      "card_ids": ["tron", "wrapped-bitcoin", "monero", "binance-usd"]
+    },
+    {
+      "id": "DEFI",
+      "text_out": "Defi markets are underperforming overall crypto. Projects that are doing well are XX and YY. The best risk adjusted project return is XX over the past month.",
+      "card_ids": ["kusama", "compound-governance-token", "thorchain", "elrond-erd-2"]
+    },
+    {
+      "id": "l2",
+      "text_out": "L2 markets are underperforming overall crypto. Projects that are doing well are XX and YY. The best risk adjusted project return is XX over the past month.",
+      "card_ids": ["the-graph", "siacoin", "digibyte", "basic-attention-token", "hedera-hashgraph", "waves", "zilliqa", "blockstack", "bittorrent-2", "ftx-token", "compound-usd-coin", "ethereum-classic"]
+    }
+  ]
+}
